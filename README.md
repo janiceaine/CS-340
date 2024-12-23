@@ -8,7 +8,7 @@ To run the dashboard and use the CRUD Python module, follow the setup instructio
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone 
 Navigate to the project directory:
 bash
 Copy code
