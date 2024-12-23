@@ -58,6 +58,8 @@ Future Enhancements
 
 This project is designed for future scalability. Some potential enhancements include:
 
-Adding authentication and authorization features to secure the data.
-Expanding the dashboard to support more interactive widgets or data visualizations.
-Optimizing the CRUD operations for better performance with large datasets.
+- Adding authentication and authorization features to secure the data.
+  
+- Expanding the dashboard to support more interactive widgets or data visualizations.
+  
+- Optimizing the CRUD operations for better performance with large datasets.
