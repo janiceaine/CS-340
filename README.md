@@ -1,4 +1,4 @@
-Final Project - Dashboard Code and CRUD Python Module
+**Final Project - Dashboard Code and CRUD Python Module**
 
 Overview
 
@@ -8,25 +8,25 @@ How to Use
 
 To run the dashboard and use the CRUD Python module, follow the setup instructions below:
 
-Clone the repository:
+- Clone the repository:
 
 bash
 Copy code
 git clone 
 
-Navigate to the project directory:
+- Navigate to the project directory:
 
 bash
 Copy code
 cd your-repository
 
-Install the required dependencies:
+- Install the required dependencies:
 
 bash
 Copy code
 pip install -r requirements.txt
 
-Run the dashboard:
+- Run the dashboard:
 
 bash
 Copy code
